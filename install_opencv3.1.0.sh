@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "This inatalls cmake and then opencv"
+echo "This installs cmake and then opencv"
 echo "install git before"
 echo "Do you want yo continue ? [y/n]"
 read check
